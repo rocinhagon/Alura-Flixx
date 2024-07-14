@@ -1,0 +1,66 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Valorant Review",
+      "cover": "https://images.livemint.com/img/2020/06/03/1600x900/Valorant_1591218052835_1591218061187.jpg",
+      "link": "https://www.youtube.com/embed/qKld97rjZD4?si=NB6Rrqqz3AlBDCx_",
+      "system": "PC",
+      "description": "Nail-biting bomb plants, hip fire headshots, and hypernatural flicks of the wrist are the tenets of Valorant. This 5v5 tactical hero shooter by League of Legends developer Riot Games had a stranglehold on me from my first carefully strategized victory. "
+    },
+    {
+      "id": 2,
+      "title": "Review Animal Crossing",
+      "cover": "https://www.gamespot.com/a/uploads/screen_kubrick/1575/15759911/3644060-animal-crossing--new-horizons-review-thumb-nologo.jpg",
+      "link": "https://www.youtube.com/embed/Ujk85npaCio?si=PQ9J8LavmAQwfico",
+      "system": "Nintendo Switch",
+      "description": "Joining Zelda and Mario on the Switch, New Horizons is an expanded, polished, next-generation reboot of a classic Nintendo game."
+    },
+    {
+      "id": 3,
+      "title": "Review FC24 PS5",
+      "cover": "https://www.gameinformer.com/sites/default/files/styles/full/public/2023/07/13/10d12f16/fc24_standardkeyart_16x9.jpg",
+      "link": "https://www.youtube.com/embed/XM4KTKakZ8M?si=AIgh_fpeeWvZVYpM",
+      "system": "PlayStation 5",
+      "description": "EA Sports FC 24 reviewed on PlayStation 4 by Andrew McMahon. Narrated by Ryan McCaffrey. Also available on Xbox Series X/S and PC.If you were hoping for a dramatic reinvention of EA's soccer sim to go along with ditching the FIFA name, EA Sports FC 24 is not that."
+    },
+    {
+      "id": 4,
+      "title": "Resenha Bioshock",
+      "cover": "https://cdn.mos.cms.futurecdn.net/d4132487bf648572736e71934de13be7.jpg",
+      "link": "https://www.youtube.com/embed/yp0Tz-qWmM8?si=H8R9icYtDnc8mJiv",
+      "system": "Xbox",
+      "description": "IGN gives a full review to the water-logged title."
+    },
+    {
+      "id": "fc46",
+      "title": "Resenha Red Dead Redemption ",
+      "cover": "https://i.ytimg.com/vi/eSiI4EzxKnc/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/eSiI4EzxKnc?si=WRb3Mi7y5nu0EeAa",
+      "system": "Nintendo Switch",
+      "description": "Hey guys! In today's video, we took a closer look at the Nintendo Switch game \"Red Dead Redemption\" and reviewed it. If you have any questions about the game don't hesitate to ask in the comment section. After this short introduction you can read the fact sheet of the game below. "
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "system": "PC",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "system": "Nintendo Switch",
+      "color": "#00C86F"
+    },
+    {
+      "id": 4,
+      "system": "Xbox",
+      "color": "#FFBA05"
+    },
+    {
+      "id": 5,
+      "system": "PlayStation 5",
+      "color": "#940b92"
+    }
+  ]
+}
